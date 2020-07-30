@@ -1,0 +1,35 @@
+.nev-c {
+    display: flex;
+    justify-content: center;
+}
+
+ul.menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    line-height: 1.5;
+    padding: 20px;
+}
+
+.footer-top {
+    border-top: 1px solid #ccc;
+    background: #ddd;
+    color: #333;
+    height: 45px;
+}
+
+.ft-f {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 40px;
+}
